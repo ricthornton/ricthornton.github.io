@@ -1,5 +1,5 @@
-layout: sidebar
-style: dark
+layout: stacked
+style: light
 
 plugins:
   - jekyll-octicons
@@ -35,7 +35,7 @@ social_media:
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
-  linkedin: ricthornton@gmail.com
+  linkedin: richardpthornton
   # mastodon: your_username
   medium: ricthornton
   # stackoverflow: your_user_id
